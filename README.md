@@ -1,2 +1,2 @@
-# cypress-realworld-app
+# demo-testing-app
 Example testing app
