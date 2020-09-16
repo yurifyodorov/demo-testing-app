@@ -1,0 +1,22 @@
+{
+  "name": "logging-in__xhr-web-forms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurifyodorov/logging-in__xhr-web-forms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurifyodorov/logging-in__xhr-web-forms/issues"
+  },
+  "homepage": "https://github.com/yurifyodorov/logging-in__xhr-web-forms#readme",
+  "dependencies": {
+    "cypress": "^5.2.0"
+  }
+}

@@ -1,0 +1,36 @@
+# Webstorm
+.idea
+
+# VS Code
+.history
+.vscode
+
+# OSX
+.DS_Store
+
+# VIM
+*.swp
+*.un~
+
+# NPM
+npm-debug.log
+node_modules
+.npmrc
+*.log
+
+# YARN
+yarn.lock
+
+# coverage
+coverage
+
+#dist
+dist
+
+# Git-flow
+gitflow
+
+# Test log
+tests/e2e/results
+tests/e2e/screenshots
+tests/e2e/videos

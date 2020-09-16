@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://ydx01-soc1-tst01.dev.nekor.ru:8081/",
+  "fixturesFolder": false,
+  "pluginsFile": false,
+  "supportFile": false
+}
