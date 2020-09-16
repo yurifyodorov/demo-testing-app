@@ -74,6 +74,83 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "3IGRcYvmZ",
+      "uuid": "ebc8a23c-908f-4efd-b7ce-ce45199f901e",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$mdlkawt6v3H.w/3qGK3WpOygeYf5kzzXJhIp1HG07HmgMyMSKX7aa",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:09:10.315Z",
+      "modifiedAt": "2020-09-16T11:09:10.315Z"
+    },
+    {
+      "id": "aQVLwKQ8W",
+      "uuid": "be29a92a-c807-483d-ba19-9210d448a732",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$G69BR353/C7N7A1iATqEfOLOZKO.gIuYWvlpgCpfuikQ30x3ggBn.",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:10:02.390Z",
+      "modifiedAt": "2020-09-16T11:10:02.390Z"
+    },
+    {
+      "id": "qWwas_Oo3",
+      "uuid": "06f2daec-f0c3-48d4-a78c-e984fa3d83f9",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$GHUSeXcj460O0uOY.maNy.nJpiGwThx.ge6FOqNngHj4hlLXWUwbi",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:15:27.781Z",
+      "modifiedAt": "2020-09-16T11:15:27.781Z"
+    },
+    {
+      "id": "nepxuoEob",
+      "uuid": "f723634c-3230-44ba-8bbd-3851f83cf1a3",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$VEQPJaIrRK42nPcnZoyLw.cjKzdydczCLsnaydqQ7bn4c/2nqWZI2",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:16:07.016Z",
+      "modifiedAt": "2020-09-16T11:16:07.016Z"
+    },
+    {
+      "id": "FVU7JXK4r",
+      "uuid": "d680ecd6-0484-4729-8f05-cc284c3e66ca",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$X24qMp.EyZ4uC6jFX/Cj3egtR4xQ9YokqXtC5kIvL4jQzFas0EVi2",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:21:42.237Z",
+      "modifiedAt": "2020-09-16T11:21:42.237Z"
+    },
+    {
+      "id": "OA9r2AsjZ",
+      "uuid": "28e8a79f-a61d-4ee9-875c-47aca5b0c4b1",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$Dvk9eB/MS32k.GvuG.cs9uZfPwt0TvQDkQT9Sv7NIPDcHrnpQ9M3y",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:22:12.107Z",
+      "modifiedAt": "2020-09-16T11:22:12.107Z"
+    },
+    {
+      "id": "RHuRw0d1H",
+      "uuid": "3012f23e-ea2b-4c0d-9155-52f8b397b2c3",
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "password": "$2a$10$Fd5qftvAuU/2j.pNjBU62.5xtOPsu29OJm2fv2gtHQev3H5KyVVTi",
+      "balance": 0,
+      "createdAt": "2020-09-16T11:23:42.444Z",
+      "modifiedAt": "2020-09-16T11:23:42.444Z"
     }
   ],
   "contacts": [
@@ -253,6 +330,17 @@
       "isDeleted": false,
       "createdAt": "2019-09-30T14:20:07.043Z",
       "modifiedAt": "2020-05-21T22:40:28.910Z"
+    },
+    {
+      "id": "FBr4uy4wI",
+      "uuid": "e5a30d5e-295a-41fb-8df2-84e23531db76",
+      "userId": "3IGRcYvmZ",
+      "bankName": "The Best Bank",
+      "accountNumber": "123456789",
+      "routingNumber": "987654321",
+      "isDeleted": false,
+      "createdAt": "2020-09-16T11:09:31.947Z",
+      "modifiedAt": "2020-09-16T11:09:31.947Z"
     }
   ],
   "transactions": [
